@@ -61,7 +61,10 @@
 
 
 <li><strong>Speed of Placement:</strong> Articles are published within 1-3 days, allowing you to quickly launch your SEO campaign.</li>
-
+Here you may see how the page starts ranking in 3 days after indexation. This placement cost 45 USD.
+<a href="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a">
+    <img src="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a" alt="Image">
+</a>
 
 <li><strong>Content Options:</strong> You can either provide your own text or request it to be written on the platform. This is convenient for those who want to save time on content creation.</li>
 
