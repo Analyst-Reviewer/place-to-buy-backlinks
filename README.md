@@ -30,7 +30,14 @@
     </tbody>
 </table>
 <p></p><em>*Domain Rating (DR) is a metric by <a href="https://ahrefs.com" target="_blank">Ahrefs</a> that assesses a domain's authority on a scale from 0 to 100. The higher the DR, the more authoritative the site appears to search engines.</em></p>
+Here you may see how the pages start ranking in 3 days after indexation with such a criteria.
 
+<a href="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a">
+    <img src="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a" alt="Image">
+</a>
+<a href="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a">
+    <img src="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a" alt="Image">
+</a>
 <blockquote>
     <strong>Practical Insights from Parasitic SEO:</strong> Our experience with parasitic SEO, involving the placement of articles on authoritative sites to drive relevant traffic, has provided valuable insights into the effectiveness of these criteria. Through extensive testing, we've confirmed that focusing on high-quality, relevant links significantly improves SEO outcomes and attracts targeted traffic.
 </blockquote>
@@ -61,10 +68,7 @@
 
 
 <li><strong>Speed of Placement:</strong> Articles are published within 1-3 days, allowing you to quickly launch your SEO campaign.</li>
-Here you may see how the page starts ranking in 3 days after indexation. This placement cost 45 USD.
-<a href="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a">
-    <img src="https://github.com/user-attachments/assets/5f9e164a-526c-47da-bcfd-bd1786e8887a" alt="Image">
-</a>
+
 
 <li><strong>Content Options:</strong> You can either provide your own text or request it to be written on the platform. This is convenient for those who want to save time on content creation.</li>
 
