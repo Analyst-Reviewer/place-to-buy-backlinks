@@ -32,7 +32,10 @@
 <li><strong>Criteria Filtering:</strong> On Adsy, you can easily find sites with a DR of 70 or higher, traffic of at least 30,000 visitors per month, and any geolocation, including the USA, UK, India, Africa, and other regions.</li>
 
 
-<li><strong>Affordable Prices:</strong> The cost of placement on sites with a US geolocation starts at around $20, making it particularly attractive for those seeking affordable solutions.</li>
+<li><strong>Affordable Prices:</strong> The cost of placement on sites with a US geolocation starts at around $180, making it particularly attractive for those seeking affordable solutions.</li>
+<a href="https://github.com/user-attachments/assets/19a150a7-f5eb-4289-8f77-e3ed455b90ec">
+    <img src="https://github.com/user-attachments/assets/19a150a7-f5eb-4289-8f77-e3ed455b90ec" alt="Image">
+</a>
 
 
 <li><strong>Speed of Placement:</strong> Articles are published within 1-3 days, allowing you to quickly launch your SEO campaign.</li>
