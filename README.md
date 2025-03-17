@@ -16,7 +16,7 @@
             <td>An ideal backlink should generate targeted visitors to your site.</td>
         </tr>
         <tr>
-            <td>High Domain Rating (DR)</td>
+            <td>High Domain Rating (DR)*</td>
             <td>A DR of 70 or higher indicates a strong and authoritative site.</td>
         </tr>
         <tr>
@@ -29,11 +29,11 @@
         </tr>
     </tbody>
 </table>
+<p></p><em>*Domain Rating (DR) is a metric by <a href="https://ahrefs.com" target="_blank">Ahrefs</a> that assesses a domain's authority on a scale from 0 to 100. The higher the DR, the more authoritative the site appears to search engines.</em></p>
 
 <blockquote>
     <strong>Practical Insights from Parasitic SEO:</strong> Our experience with parasitic SEO, involving the placement of articles on authoritative sites to drive relevant traffic, has provided valuable insights into the effectiveness of these criteria. Through extensive testing, we've confirmed that focusing on high-quality, relevant links significantly improves SEO outcomes and attracts targeted traffic.
 </blockquote>
-
 
 <ol>
 <li><strong>Quality Over Quantity:</strong> Focus on acquiring backlinks from authoritative sites with high domain authority (DA) and thematic relevance. These links carry more weight in search engine algorithms.</li>
